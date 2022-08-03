@@ -23,6 +23,9 @@ We processed images using below mentioned methods:
 
 
 ### Stats
+total cores were 12
+ram 16gb swap 2gb
+
 // ############## Single Thread ############## 
 59 imgs -> [131.396, 126.5835, 126.218]sec
 
